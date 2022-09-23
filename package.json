@@ -1,0 +1,23 @@
+{
+  "name": "mailparser",
+  "version": "1.0.0",
+  "description": "a simple mail parser.",
+  "main": "mailParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnowicky/mailParser.git"
+  },
+  "author": "Matt Nowicky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnowicky/mailParser/issues"
+  },
+  "homepage": "https://github.com/mnowicky/mailParser#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "imap": "^0.8.19"
+  }
+}
